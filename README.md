@@ -13,4 +13,7 @@ python analyzer.py sample.txt --top 10
 
 
 ## Example
-![Example of output when using the program with the provided sample.txt file](screenshot.png)
+
+Here's how the analyzer looks running:
+
+![Example output](screenshot.png)
