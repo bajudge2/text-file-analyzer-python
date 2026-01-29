@@ -10,3 +10,7 @@ A Python CLI tool that analyzes text files to provide:
 
 ```bash
 python analyzer.py sample.txt --top 10
+
+
+## Example
+![Example of output when using the program with the provided sample.txt file](screenshot.png)
